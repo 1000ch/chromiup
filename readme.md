@@ -2,6 +2,8 @@
 
 Keep your [Chromium](https://download-chromium.appspot.com/) newest.
 
+![Demo](./chromiup.gif)
+
 ## Install
 
 ```bash
