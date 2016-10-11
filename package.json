@@ -1,0 +1,24 @@
+{
+  "name": "chromiup",
+  "version": "0.1.0",
+  "description": "Keep your Chromium newest.",
+  "main": "index.js",
+  "bin": {
+    "chromiup": "cli.js"
+  },
+  "keywords": [
+    "chromium"
+  ],
+  "author": {
+    "name": "Shogo Sensui",
+    "email": "shogo.sensui@gmail.com",
+    "url": "github.com/1000ch"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "download": "^5.0.2",
+    "ora": "^0.3.0",
+    "pify": "^2.3.0",
+    "trash": "^4.0.0"
+  }
+}
