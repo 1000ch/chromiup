@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const ora = require('ora');
 const spinner = ora('Installing Chromium').start();
 const chromiup = require('./');
