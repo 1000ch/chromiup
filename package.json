@@ -17,7 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "download": "^7.1.0",
-    "ora": "^4.0.0",
+    "ora": "^5.0.0",
     "trash": "^6.0.0"
   }
 }
